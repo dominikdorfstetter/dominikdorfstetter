@@ -1,4 +1,4 @@
-### <div align="center">I'm Dominik, a full-time full-stack lead-developer 🚀</div>  
+### <div align="center">I'm Dominik, a lead-developer 🚀 from Vienna, with roots in lower-Austria</div>  
   
 
 - 🔭 I’m currently working on various projects in Vienna & on my Spanish skills
