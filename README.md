@@ -1,15 +1,10 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Dominik, a full-time full-stack lead-developer 🚀</div>  
   
 
-- 🔭 I’m currently working on various projects in Vienna  
+- 🔭 I’m currently working on various projects in Vienna & on my Spanish skills
   
 
-- 🌱 I’m currently reading "The pragmatic programmer"  
+- 🌱 I’m currently reading a lot of Medium arcticles  
   
 
 - ❓ Ask me about anything related to Angular, React, Spring Framework or Kafka  
