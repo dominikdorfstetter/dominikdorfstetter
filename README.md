@@ -93,7 +93,10 @@
 </a>
 <a href="https://twitter.com/goto_shell" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://www.xing.com/profile/Dominik_Dorfstetter" target="_blank">
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Xing_logo.svg/320px-Xing_logo.svg.png alt=xing style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
