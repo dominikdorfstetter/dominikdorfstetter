@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on various projects in Vienna & on my Spanish skills
   
 
-- 🌱 I’m currently reading a lot of Medium arcticles  
+- 🌱 I’m currently founding a company.
   
 
 - ❓ Ask me about anything related to Angular, React, Spring Framework or Kafka  
