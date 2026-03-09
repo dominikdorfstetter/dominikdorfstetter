@@ -1,4 +1,4 @@
-### <div align="center">I'm Dominik, web developments expert and founder 🚀 from Vienna, with roots in lower-Austria</div>
+### <div align="center">I'm Dominik, web development expert and founder 🚀 from Vienna, with roots in lower-Austria</div>
 #### <div align="center">I'm currently a BA student learning about "Digital Business" on the FH Wien der WkW</div>  
 ##### <div align="center">Dipping into business strategy and digitalization.</div>
 ###### <div align="center">Software should be accessible to everyone, strong supporter of OpenSource initiatives.</div>  
