@@ -1,16 +1,18 @@
-### <div align="center">I'm Dominik, a lead-developer and founder 🚀 from Vienna, with roots in lower-Austria</div>  
-  
+### <div align="center">I'm Dominik, web developments expert and founder 🚀 from Vienna, with roots in lower-Austria</div>
+### <div align="center">I'm currently a BA student learning about "Digital Business" on the FH Wien der WkW</div>  
+### <div align="center">Dipping into business strategy and digitalization.</div>
+### <div align="center">Software should be accessible to everyone, strong supporter of OpenSource initiatives.</div>  
 
 - 🔭 I’m currently working on various projects in Vienna & on my Spanish skills
   
 
-- 🌱 I’m currently founding a company.
+- 🌱 I’m a dad to a newborn daughter.
   
 
-- ❓ Ask me about anything related to Angular, React, Spring Framework or Kafka  
+- ❓ Ask me about anything related to Angular, React, Spring Framework, Rust, Rocket or Warhammer 40k
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I
   
 
 <br/>  
